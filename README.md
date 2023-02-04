@@ -32,4 +32,4 @@ This repository contains the code for a lunar lander game where the player contr
 
 # Note
 
-Please note that this repository is for educational and research purposes only and is not intended for commercial use. The code and model provided in this repository are not guaranteed to be error-free and may not reflect best practices for application layer protocol. Use at your own risk.
+Please note that this repository is for educational purposes only and is not intended for commercial use. The code and model provided in this repository are not guaranteed to be error-free and may not reflect best practices for application layer protocol. Use at your own risk.
