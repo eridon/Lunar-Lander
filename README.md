@@ -27,9 +27,9 @@ This repository contains the code for a lunar lander game where the player contr
 
 # Background
 
-- This game was developed as a university project to explore the capabilities of deep learning for image and video analysis.
+- This game was developed as a university project to explore the capabilities of a networked application program.
 - The code used in this repository was adapted from the example provided by the following repository: https://github.com/weibo053/LunarLander
 
 # Note
 
-Please note that this repository is for educational purposes only and is not intended for commercial use. The code and model provided in this repository are not guaranteed to be error-free and may not reflect best practices for application layer protocol. Use at your own risk.
+Please note that this repository is for educational purposes only and is not intended for commercial use. The code and model provided in this repository are not guaranteed to be error-free and may not reflect best practices for a networked application program. Use at your own risk.
